@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/85174365/135628821-9633b28d-be37-4d53-a87d-80ba1fccbbf2.png)
+
 # dio-aws-kinesis-analytics
 Explorando o Amazon Kinesis Data Analytics e analisando dados em tempo real - streaming de dados
 
